@@ -102,6 +102,16 @@ From round 60 onward, the compressed size is **completely constant**.
 
 Read the [full design document (English)](docs/design.md) or [中文设计文档](docs/design.cn.md).
 
+## Development
+
+```bash
+# Run tests (zero LLM cost — uses mock responses)
+npm test
+
+# Or directly:
+npx tsx tests/index.test.ts
+```
+
 ## License
 
 MIT — [TuringCorp](https://www.turingcorp.net) | [iAsk@turingcorp.net](mailto:iAsk@turingcorp.net)
