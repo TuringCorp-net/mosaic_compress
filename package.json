@@ -1,0 +1,25 @@
+{
+  "name": "mosaic-compress",
+  "version": "1.0.0",
+  "description": "Stateless dialogue compression based on natural forgetting curve. Keep LLM conversations bounded without session management.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "files": ["src/", "docs/"],
+  "keywords": [
+    "llm",
+    "dialogue",
+    "compression",
+    "context-window",
+    "chat",
+    "conversation",
+    "memory",
+    "session",
+    "forgetting-curve"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TuringCorp-net/mosaic_compress"
+  },
+  "homepage": "https://github.com/TuringCorp-net/mosaic_compress#readme"
+}
