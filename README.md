@@ -104,4 +104,4 @@ Read the [full design document (English)](docs/design.md) or [中文设计文档
 
 ## License
 
-MIT
+MIT — [TuringCorp](https://www.turingcorp.net) | [iAsk@turingcorp.net](mailto:iAsk@turingcorp.net)
